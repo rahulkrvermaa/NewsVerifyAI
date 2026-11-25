@@ -8,6 +8,26 @@ NewsVerify AI is an AI-powered news authenticity and proposition verification pl
 
 ---
 
+## Interface Preview
+
+### Overview Dashboard
+Real-time verification metrics, verdict distribution chart, and latest claim-level activity.
+![Overview Dashboard](docs/screenshots/overview-dashboard.jpg)
+
+### New Investigation
+Submit news articles via pasted text, URL extraction, or `.txt` / `.pdf` / `.docx` file upload.
+![New Investigation](docs/screenshots/new-investigation.png)
+
+### Investigation History
+Search, filter by assessment, sort by date, and open or manage saved investigations.
+![Investigation History](docs/screenshots/investigation-history.png)
+
+### Sources & Evidence Repository
+Filterable library of retrieved external sources, highlighted excerpts, and associated claims.
+![Sources and Evidence](docs/screenshots/sources-evidence.jpg)
+
+---
+
 ## Key Features
 
 - **Three Article Input Modes**:
